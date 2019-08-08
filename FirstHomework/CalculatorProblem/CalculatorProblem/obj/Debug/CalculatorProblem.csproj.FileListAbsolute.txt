@@ -1,0 +1,7 @@
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\bin\Debug\CalculatorProblem.exe.config
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\bin\Debug\CalculatorProblem.exe
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\bin\Debug\CalculatorProblem.pdb
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\obj\Debug\CalculatorProblem.csprojAssemblyReference.cache
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\obj\Debug\CalculatorProblem.csproj.CoreCompileInputs.cache
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\obj\Debug\CalculatorProblem.exe
+C:\Users\ST073494\Learning\C#\Workspace\CalculatorProblem\CalculatorProblem\obj\Debug\CalculatorProblem.pdb

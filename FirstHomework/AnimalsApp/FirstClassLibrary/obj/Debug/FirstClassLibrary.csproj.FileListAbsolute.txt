@@ -1,0 +1,15 @@
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\FirstClassLibrary.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\FirstClassLibrary.pdb
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\obj\Debug\FirstClassLibrary.csprojAssemblyReference.cache
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\obj\Debug\FirstClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\obj\Debug\FirstClassLibrary.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\obj\Debug\FirstClassLibrary.pdb
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\Castle.Core.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\Moq.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\Castle.Core.xml
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\Moq.xml
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ST073494\Learning\C#\Workspace\FirstClassLibrary\FirstClassLibrary\obj\Debug\FirstClassLibrary.csproj.CopyComplete

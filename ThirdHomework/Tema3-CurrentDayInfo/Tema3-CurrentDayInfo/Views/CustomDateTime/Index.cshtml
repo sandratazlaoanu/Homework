@@ -1,0 +1,23 @@
+﻿@using Tema3_CurrentDayInfo.Models
+
+@{
+    ViewData["Title"] = "CustomDateTime";
+
+    <h1>CustomDateTime</h1>
+
+}
+@{
+    var repository = new CustomDateTimeRepository();
+    var dateTime = repository.CurrentDateTime;
+    <p>
+        Date -> @dateTime.Date
+    </p>
+
+    <p>
+        Today is @dateTime.Day.DayOfWeek
+    </p>
+}
+
+
+
+

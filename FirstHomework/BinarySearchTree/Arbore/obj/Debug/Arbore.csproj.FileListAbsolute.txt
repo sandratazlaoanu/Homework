@@ -1,0 +1,14 @@
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\bin\Debug\Arbore.exe.config
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\bin\Debug\Arbore.exe
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\bin\Debug\Arbore.pdb
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\obj\Debug\Arbore.csprojAssemblyReference.cache
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\obj\Debug\Arbore.csproj.CoreCompileInputs.cache
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\obj\Debug\Arbore.exe
+C:\Users\DD073403\Desktop\La munca\Csharp\Arbore\Arbore\obj\Debug\Arbore.pdb
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\bin\Debug\Arbore.exe.config
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\bin\Debug\Arbore.exe
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\bin\Debug\Arbore.pdb
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\obj\Debug\Arbore.csprojAssemblyReference.cache
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\obj\Debug\Arbore.csproj.CoreCompileInputs.cache
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\obj\Debug\Arbore.exe
+C:\Users\ST073494\Downloads\wetransfer-68f005\Arbore\Arbore\obj\Debug\Arbore.pdb

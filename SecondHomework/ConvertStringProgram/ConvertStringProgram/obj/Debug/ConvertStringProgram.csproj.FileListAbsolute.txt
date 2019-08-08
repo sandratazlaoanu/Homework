@@ -1,0 +1,7 @@
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\bin\Debug\ConvertStringProgram.exe.config
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\bin\Debug\ConvertStringProgram.exe
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\bin\Debug\ConvertStringProgram.pdb
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\obj\Debug\ConvertStringProgram.csprojAssemblyReference.cache
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\obj\Debug\ConvertStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\obj\Debug\ConvertStringProgram.exe
+C:\Users\ST073494\Learning\C#\Workspace\ConvertStringProgram\ConvertStringProgram\obj\Debug\ConvertStringProgram.pdb

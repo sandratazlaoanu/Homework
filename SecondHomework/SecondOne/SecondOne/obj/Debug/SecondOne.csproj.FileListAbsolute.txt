@@ -1,0 +1,7 @@
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\bin\Debug\SecondOne.exe.config
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\bin\Debug\SecondOne.exe
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\bin\Debug\SecondOne.pdb
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\obj\Debug\SecondOne.csprojAssemblyReference.cache
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\obj\Debug\SecondOne.csproj.CoreCompileInputs.cache
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\obj\Debug\SecondOne.exe
+C:\Users\ST073494\Learning\C#\Workspace\SecondOne\SecondOne\obj\Debug\SecondOne.pdb
