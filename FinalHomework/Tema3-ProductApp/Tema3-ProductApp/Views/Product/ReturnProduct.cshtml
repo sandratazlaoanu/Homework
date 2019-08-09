@@ -1,0 +1,23 @@
+﻿@using Tema3_ProductApp.Models
+@{
+    ViewData["Title"] = "ReturnProduct";
+}
+<h1>ReturnProduct</h1>
+
+@{
+    @using (Html.BeginForm())
+    {
+        var id = 1;
+        ProductRepository repo = new ProductRepository();
+        Product item = repo.GetById(id);
+      
+        <p>
+            Product has been found
+        </p>
+        <p>
+            @item.Id
+            @item.Name
+            @item.Description
+        </p>
+    }
+}
